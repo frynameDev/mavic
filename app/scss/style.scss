@@ -47,6 +47,15 @@
       & + .menu__list-item {
          padding-left: 20px;
       }
+      // &.active a {
+      //    color: violet;
+      // }
+   }
+   &__list-phone {
+      display: none;
+   }
+   &__btn {
+      display: none;
    }
 }
 
